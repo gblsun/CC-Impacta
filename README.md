@@ -6,6 +6,41 @@ O objetivo principal é servir como uma **base de conhecimento estruturada**, co
 
 ---
 
+## Projetos em destaque
+
+<p align="center">
+  <img src="Bacharelado%20-%20Ci%C3%AAncia%20da%20Computa%C3%A7%C3%A3o%20IMPACTA/6%20Semestre/Computa%C3%A7%C3%A3o%20Gr%C3%A1fica%20e%20RA%20RV/Aula%207/mini-catalogo%203d.png" alt="Prévia de uma cena 3D desenvolvida no repositório" width="520">
+</p>
+
+| Projeto | Problema resolvido | Tecnologias | Como executar |
+| --- | --- | --- | --- |
+| [Análise de emissões brasileiras](<Bacharelado - Ciência da Computação IMPACTA/5 Semestre/Inteligência Computacional/projetofinal-testes/README.md>) | Explora emissões por período, gás e setor e transforma os dados em relatórios técnicos e executivos. | Python, pandas, Matplotlib, Jupyter | Consulte o [README do projeto](<Bacharelado - Ciência da Computação IMPACTA/5 Semestre/Inteligência Computacional/projetofinal-testes/README.md>) e execute `analisebase.ipynb`. |
+| [Floyd-Warshall](<Bacharelado - Ciência da Computação IMPACTA/5 Semestre/Teoria dos Grafos/Algoritmo Floyd Warshall/README.md>) | Calcula caminhos mínimos entre todos os pares de vértices em grafos ponderados. | Python, NetworkX, Matplotlib | Instale `networkx` e `matplotlib`; abra `AtividadeAlgoritmoFloydWarshall.ipynb`. |
+| [Galeria 3D](<Bacharelado - Ciência da Computação IMPACTA/6 Semestre/Computação Gráfica e RA RV/Aula 8/README.md>) | Demonstra instâncias de malha, transformações, câmera orbital e hierarquia pai-filho. | Python, Pygame | Instale `pygame` e execute `python aula8-galeria-3d.py`. |
+| [Pipeline ETL](<Cursos Livres - Impacta/ETL na Prática - Como Trabalhar com Dados (online)/README.md>) | Exercita extração, transformação, carga e análise de dados em um pipeline completo. | Python, pandas, SQLite, Excel | Execute os notebooks na sequência `1. Extract` → `4. Projeto`. |
+
+> Os projetos acima representam entregas que vale a pena explorar primeiro. Para o mapa completo do acervo, consulte o índice abaixo.
+
+## Índice navegável
+
+| Tema | Tecnologias | Conteúdo | Link |
+| --- | --- | --- | --- |
+| Fundamentos de programação | Python, C | Lógica, estruturas de dados, recursividade, TDD e análise de algoritmos | [1º e 2º semestres](<Bacharelado - Ciência da Computação IMPACTA/2 Semestre/README.md>) |
+| Algoritmos e estruturas de dados | Java, Python | Estruturas lineares, exercícios e análise/projeto de algoritmos | [3º semestre](<Bacharelado - Ciência da Computação IMPACTA/3 Semestre/README.md>) |
+| Orientação a objetos | Python, Java | Classes, objetos, coleções e exercícios práticos | [4º semestre](<Bacharelado - Ciência da Computação IMPACTA/4 Semestre/README.md>) |
+| Dados e IA | Python, Jupyter, pandas | Análise exploratória, inteligência computacional e inferência estatística | [5º semestre](<Bacharelado - Ciência da Computação IMPACTA/5 Semestre/README.md>) · [6º semestre](<Bacharelado - Ciência da Computação IMPACTA/6 Semestre/README.md>) |
+| Teoria dos grafos | Python, NetworkX | Floyd-Warshall, Edmonds-Karp e anotações de grafos | [Teoria dos Grafos](<Bacharelado - Ciência da Computação IMPACTA/5 Semestre/Teoria dos Grafos/README.md>) |
+| Computação gráfica | Python, Pygame | Modelagem, transformações, câmeras e cenas 3D | [Computação Gráfica](<Bacharelado - Ciência da Computação IMPACTA/6 Semestre/Computação Gráfica e RA RV/README.md>) |
+| Web | HTML, CSS, JavaScript | Interfaces, páginas institucionais e portfólios | [ETEC](<ETEC Informática para Internet ABH/README.md>) · [Projetos HTML/CSS](<Projetos HTML e CSS/README.md>) |
+| ETL | Python, pandas, SQLite | Extração, transformação, carga e projeto de dados | [Curso ETL](<Cursos Livres - Impacta/ETL na Prática - Como Trabalhar com Dados (online)/README.md>) |
+| Fundamentos em C | C | Exercícios desenvolvidos durante o CS50 | [CC50](CC50/README.md) |
+
+## Manutenção do acervo
+
+- Novos conteúdos seguem as [convenções de nomenclatura e de dados](docs/CONVENCOES.md).
+- Datasets grandes, vídeos, instaladores e resultados gerados não devem entrar no Git; use a fonte de obtenção ou Git LFS quando o arquivo for indispensável.
+- Os projetos em destaque documentam objetivo, dependências, execução e resultado.
+
 ## Objetivo
 
 - Consolidar aprendizados acadêmicos e práticos

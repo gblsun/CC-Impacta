@@ -9,7 +9,4 @@ def test_cenario_2():
 def test_cenario_3():
     assert simular_rendimento(0.3, 10) == 13785.85
 
-#  -----> testes errados
-def test_cenario_4():
-    assert simular_rendimento(0.3, 10) == 30.23
 #  python -m pytest '.\IMPACTA\2SEM\tecnicas-de-programacao\Aula14 - TDD (Testes unitários)\simular_rendimento\test_simular_rendimento.py'
