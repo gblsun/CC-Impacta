@@ -41,6 +41,14 @@ O objetivo principal é servir como uma **base de conhecimento estruturada**, co
 - Datasets grandes, vídeos, instaladores e resultados gerados não devem entrar no Git; use a fonte de obtenção ou Git LFS quando o arquivo for indispensável.
 - Os projetos em destaque documentam objetivo, dependências, execução e resultado.
 
+### Clone no Windows
+
+O acervo histórico contém alguns caminhos longos. Em Windows, faça o clone com suporte a caminhos longos habilitado:
+
+```bash
+git clone -c core.longpaths=true https://github.com/gblsun/knowledge-repo.git
+```
+
 ## Objetivo
 
 - Consolidar aprendizados acadêmicos e práticos
